@@ -5,7 +5,7 @@ env_variables:
   # --REQUIRED--
   DATABASE_URI: mongodb+srv://peter:DenverMan1026%21@cluster0-lbyjb.mongodb.net/test?retryWrites=true&w=majority
   APP_ID: parse
-  MASTER_KEY: <your-master-key>
+  MASTER_KEY: ec09789a-8565-4c04-bd84-6868dfeb4df3
   SERVER_URL: https://methodparsetest.herokuapp.com/
   # --OPTIONAL--
   # FILE_KEY: <your-file-key>
